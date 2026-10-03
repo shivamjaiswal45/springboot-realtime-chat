@@ -19,7 +19,7 @@ A lightweight real-time chat application built with **Java** and **Spring Boot**
 
 <br>
 
-<img src="./screenshot/Person_1.png" alt="Real-time chat application" width="90%">
+<img src="./screenshot/Person 1.png" alt="Real-time chat application" width="90%">
 
 </div>
 
@@ -56,7 +56,7 @@ It is a compact, readable example of **WebSocket + STOMP messaging** in Spring B
 
 | 👤 Shivam's window | 👤 Parth's window |
 | :---: | :---: |
-| <img src="./screenshot/Person_1.png" alt="Chat as Shivam" width="450"> | <img src="./screenshot/person_2.png" alt="Chat as Parth" width="450"> |
+| <img src="./screenshot/Person 1.png" alt="Chat as Shivam" width="450"> | <img src="./screenshot/person 2.png" alt="Chat as Parth" width="450"> |
 
 *Two users, two browser windows, one live conversation.*
 
